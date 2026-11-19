@@ -21,7 +21,7 @@ Then visit `http://localhost:8000`.
 
 ## Publish on GitHub Pages
 1. Download and extract this ZIP.
-2. Open your repository: https://github.com/deyh2020/deyh2020.github.io
+2. Open your repository: https://haimavathi-hub.github.io/prototypes.html
 3. Upload the **contents** of this folder to the repository root (not the enclosing folder).
 4. Keep `index.html` at the repository root.
 5. Commit the upload. GitHub Pages should publish the site at https://deyh2020.github.io/.
