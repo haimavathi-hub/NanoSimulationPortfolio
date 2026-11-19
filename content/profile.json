@@ -1,0 +1,40 @@
+{
+  "name": "Haimabati Dey",
+  "title": "Electrical and Computer Engineer",
+  "tagline": "Analog and mixed-signal circuits \u00b7 CMOS \u00b7 Spintronics \u00b7 Nanophotonics",
+  "email": "deyh2023@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/haimabati2022/",
+  "github": "https://github.com/deyh2020",
+  "website": "https://deyh2020.github.io/",
+  "location": "",
+  "bio": [
+    "Electrical and computer engineer with research and engineering experience in analog/mixed-signal circuits, CMOS and device modeling, high-speed communication, RF systems, optical communication, and hardware prototyping.",
+    "Research experience includes nano-bio-photonic, plasmonic, and metamaterial structures; quantum optical systems; and spintronic/nanoelectronic devices. Current research interests include physics-aware inverse design and learning methods for magnonics, spin-wave dynamics, nonlinear magnetic systems, and unconventional computing."
+  ],
+  "research_interests": [
+    {
+      "title": "Nano-bio-optoelectronic interfaces",
+      "text": "Investigating optoelectronic device geometries for biological sensing at tissue level, including physical modelling and electrical characterization."
+    },
+    {
+      "title": "Integrated CMOS\u2013MTJ structures",
+      "text": "Device and circuit design involving Landau\u2013Lifshitz\u2013Gilbert dynamics, micromagnetic and spin-wave models, nonlinear spin-wave dynamics, magnon interactions, and engineered spin-wave propagation."
+    },
+    {
+      "title": "2D spintronics and magnonics",
+      "text": "Design of spintronic and magnonic structures for logic and sensing-based information processing."
+    },
+    {
+      "title": "Wireless nanoscale biosensors",
+      "text": "Compact sensor architectures combining nanoscale transduction, low-power electronics, and wireless signal transmission for biological monitoring."
+    },
+    {
+      "title": "RF and integrated circuits for neurotechnology",
+      "text": "Low-noise sensing, energy-efficient wireless readout, miniaturized RF interfaces, and integrated electronics for neural interfaces."
+    },
+    {
+      "title": "Intelligent biocompatible nanophotonic and nanoelectronic systems",
+      "text": "Physics-informed machine learning and computational methods for sensor design, biological signal interpretation, and adaptive smart-sensing architectures."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "role": "Graduate Research Assistant",
+    "organization": "Purdue University",
+    "location": "West Lafayette, IN",
+    "period": "2018\u20132023",
+    "area": "Quantum Optics, NanoBioPhotonic Devices & Numerical Optimization",
+    "bullets": [
+      "Simulated cavity-QED and multi-level quantum systems, studying photon\u2013matter interaction, state evolution, coupling, and quantum-state control.",
+      "Applied FDTD numerical electromagnetics, Green's functions, and quantum transport methods to nanoscale photonic-crystal, plasmonic, and metamaterial structures for biosensor design.",
+      "Simulated quantum optomechanical systems for reinforcement-learning-based quantum photonic experiment design."
+    ]
+  },
+  {
+    "role": "Graduate Research Assistant",
+    "organization": "Purdue University",
+    "location": "West Lafayette, IN",
+    "period": "2015\u20132016",
+    "area": "Spintronics, Quantum Transport & Nanoscale Device Modeling",
+    "bullets": [
+      "Developed compact and equivalent-circuit models connecting microscopic physical mechanisms with system-level behavior for spin-transfer torque, spin Hall effect, spin valves, magnetic tunnel junctions, and spintronic logic. Used HSPICE and MATLAB to evaluate switching behavior.",
+      "Studied spin transport in graphene and ferromagnetic van der Waals heterostructure materials.",
+      "Investigated hybrid CMOS\u2013spintronic architectures, including SPIN-FET, spin-Hall oscillators, memristive devices, and neuromorphic spintronic devices."
+    ]
+  },
+  {
+    "role": "Graduate Teaching Assistant / Lab Instructor",
+    "organization": "Purdue University",
+    "location": "West Lafayette, IN",
+    "period": "2016\u20132023",
+    "area": "Electronic Circuits, Systems & Hardware Prototyping",
+    "bullets": [
+      "Mentored and supervised 20+ multidisciplinary engineering teams per semester through requirements analysis, system architecture, circuit design, simulation, prototyping, debugging, and validation.",
+      "Designed and analyzed analog, digital, RF, mixed-signal, and control circuits with emphasis on experimental validation.",
+      "Developed LabVIEW-based hardware automation and experimental measurement workflows.",
+      "Performed hands-on measurements using oscilloscopes, spectrum analyzers, network/impedance analyzers, signal generators, function generators, and power supplies.",
+      "Worked with signal integrity, RF/microwave circuits, filters, PLLs, ADC/DACs, op-amp circuits, transistor circuits, feedback systems, and mixed-signal electronics.",
+      "Guided hardware prototype development from schematic/layout through experimental debugging and performance validation."
+    ]
+  },
+  {
+    "role": "Visiting Scholar",
+    "organization": "Foundation Sant Joan de D\u00e9u \u2014 Neuroscience Research",
+    "location": "Barcelona, Spain",
+    "period": "2014",
+    "area": "Behavioral Neuroscience & Statistical Learning",
+    "bullets": [
+      "Applied MATLAB Psychophysics Toolbox, SVM, K-means clustering, regression, and decision-tree methods to behavioral neuroscience data.",
+      "Developed statistical and machine-learning workflows for classification, outlier detection, preprocessing, and identification of significant variables."
+    ]
+  },
+  {
+    "role": "Visiting Researcher",
+    "organization": "University of Barcelona \u2014 FEMAN Group",
+    "location": "Barcelona, Spain",
+    "period": "2014",
+    "area": "Polarization Microscopy & Mueller-Matrix Methods",
+    "bullets": [
+      "Developed LabVIEW automation for Mueller-matrix microscopy using a dual continuously rotating compensator system.",
+      "Studied polarization microscopy and Mueller-matrix methods for characterization of chiral anisotropic media, crystals, and biological tissues."
+    ]
+  },
+  {
+    "role": "Junior Research Fellow",
+    "organization": "Indian Institute of Technology Kharagpur",
+    "location": "India",
+    "period": "2009\u20132011",
+    "area": "Secure Wireless Networks & Distributed Cryptography",
+    "bullets": [
+      "Developed secure routing and trusted communication algorithms for mobile ad-hoc and sensor networks under resource constraints.",
+      "Implemented DSDV, AODV, and DSR routing protocols using NS-2, Tcl/Tk, C++, and Perl.",
+      "Developed graph-theoretic clustering methods for multicast communication and mathematical models for adversarial attacks.",
+      "Investigated threshold cryptography, identity-based signcryption, distributed cryptographic algorithms, zero-knowledge proofs, and Diffie\u2013Hellman-based secure communication."
+    ]
+  },
+  {
+    "role": "Summer Research Intern",
+    "organization": "Indian Institute of Technology Bombay",
+    "location": "India",
+    "period": "2008\u20132009",
+    "area": "Information Theory & Communication Systems",
+    "bullets": [
+      "Studied information theory, probabilistic methods, source coding, channel coding, error-correcting codes, network coding, and Bayesian statistics.",
+      "Investigated Huffman, Shannon\u2013Fano, and Lempel\u2013Ziv coding methods."
+    ]
+  }
+]

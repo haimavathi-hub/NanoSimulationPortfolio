@@ -1,0 +1,9 @@
+{
+  "Analog / Mixed-Signal / Circuit Design": "Analog and digital circuit design, mixed-signal systems, signal integrity, RF/microwave circuits, communication circuits, transistor-level modeling, CMOS circuits, device/circuit co-design.",
+  "EDA / Circuit Simulation": "HSPICE, Cadence Virtuoso, LTSpice, PSpice, OrCAD, Mentor tools, TCAD, Keysight ADS, MATLAB/Simulink.",
+  "Hardware / Instrumentation": "LabVIEW, FPGA, Arduino, Raspberry Pi, MicroPython, Verilog, signal generators, spectrum analyzers, network analyzers, oscilloscope-based debugging, mixed-signal prototyping.",
+  "Communication Systems": "RF and microwave engineering, analog/digital communication, optical communication, quantum communication, signal processing, information theory, error-correcting codes.",
+  "Optoelectronics / Photonics": "MEEP/FDTD, COMSOL, Ansys HFSS, CST, RSoft, photonic structures, optical resonators, quantum optics, cavity-QED, photonic communication.",
+  "Programming / Computational Tools": "Python, MATLAB, C/C++, Tcl/Tk, NumPy, SciPy, PyTorch, TensorFlow/Keras, scikit-learn, Qiskit, QuTiP.",
+  "Laboratory Instrumentation": "Oscilloscopes, spectrum analyzers, network/impedance analyzers, signal generators, multimeters, power supplies, and mixed-signal laboratory instrumentation."
+}

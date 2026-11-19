@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Data Scientist",
+    "organization": "Sumeru, Inc.",
+    "location": "USA",
+    "period": "2023\u20132024",
+    "bullets": [
+      "Evaluated open-source Python frameworks for neural-network and machine-learning algorithms targeting hardware implementations.",
+      "Investigated computer-vision systems for object tracking and AI-assisted OCR/document information extraction."
+    ]
+  },
+  {
+    "role": "Intellectual Property & Market Research Analyst",
+    "organization": "DOLCERA Intellectual Property and Market Research Pvt. Ltd.",
+    "location": "India",
+    "period": "2011\u20132012",
+    "bullets": [
+      "Conducted technology and patent landscape studies covering 4G/LTE architectures, quantum cryptography, FINFETs, ASICs, digital logic, and communication systems.",
+      "Analyzed large patent datasets and performed novelty, infringement, invalidation, and claim-charting studies.",
+      "Conducted product-to-patent portfolio mapping and technical market research for telecommunications and nanotechnology clients."
+    ]
+  }
+]

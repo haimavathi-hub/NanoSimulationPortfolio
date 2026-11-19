@@ -1,0 +1,166 @@
+[
+  {
+    "title": "MTJ / CMOS Hybrid Circuit Modeling",
+    "category": "Spintronics \u00b7 Circuit modeling",
+    "summary": "HSPICE-based compact modeling and simulation of spintronic devices integrated with CMOS logic and memory.",
+    "details": "The CV describes compact and equivalent-circuit modelling connecting microscopic spin-transport mechanisms with system-level behavior. The project record can be extended with model documentation, circuit schematics, and simulation data.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "MTJ",
+      "CMOS",
+      "HSPICE",
+      "Spintronics"
+    ]
+  },
+  {
+    "title": "STT-MRAM Architecture",
+    "category": "Spintronics \u00b7 Memory",
+    "summary": "Investigation of read/write mechanisms, switching reliability, energy efficiency, and circuit-level modeling of magnetic memory.",
+    "details": "Add a paper or technical note, switching waveforms, device parameters, and architecture diagrams when those materials are ready to share.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "STT-MRAM",
+      "MTJ",
+      "Memory",
+      "Reliability"
+    ]
+  },
+  {
+    "title": "Graphene Spin-Transport Modeling",
+    "category": "Spin transport \u00b7 Device physics",
+    "summary": "HSPICE-based modeling of spin-Hall and inverse spin-Hall effects and conversion of device physics into circuit modules.",
+    "details": "A project page for linking physical models to equivalent circuit representations and system-level simulations.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Graphene",
+      "Spin Hall effect",
+      "HSPICE"
+    ]
+  },
+  {
+    "title": "Quantum Photonic Transceiver Design",
+    "category": "Quantum optics \u00b7 Optical communication",
+    "summary": "Research into photonic communication architectures and optimization of optical components and transceiver systems.",
+    "details": "The CV identifies this as a selected engineering/computational project. Add specific architecture details and outputs as you make them available.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Quantum photonics",
+      "Transceivers",
+      "Optical communication"
+    ]
+  },
+  {
+    "title": "Photonic Crystal and Optical Device Modeling",
+    "category": "Nanophotonics \u00b7 Numerical electromagnetics",
+    "summary": "Numerical modeling of photonic structures and optical transmission characteristics.",
+    "details": "Use this entry to collect FDTD/COMSOL models, geometry files, transmission spectra, field maps, and related papers or notebooks.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "FDTD",
+      "Photonic crystals",
+      "Optical devices"
+    ]
+  },
+  {
+    "title": "AI for Photonic and Metamaterial Design",
+    "category": "Machine learning \u00b7 Inverse design",
+    "summary": "Deep-learning, genetic-algorithm, and reinforcement-learning approaches for optimization of plasmonic, metamaterial, and photonic structures.",
+    "details": "Add model notebooks, optimization traces, geometry comparisons, and field-distribution plots when available.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Inverse design",
+      "Deep learning",
+      "Genetic algorithms",
+      "Reinforcement learning"
+    ]
+  },
+  {
+    "title": "Hardware Neural Networks",
+    "category": "Neuromorphic computing \u00b7 Hardware",
+    "summary": "Investigation of deep-learning architectures and hardware-oriented implementations for nanophotonic and spintronic computing.",
+    "details": "This is listed in the CV as an investigation area/project. Keep future implementation plans clearly distinguished from completed prototypes.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Neuromorphic",
+      "Nanophotonics",
+      "Spintronics"
+    ]
+  },
+  {
+    "title": "Hardware Cryptography and Security",
+    "category": "Hardware security \u00b7 Cryptography",
+    "summary": "Research topics include hardware cryptographic accelerators, side-channel security, memory security, RowHammer, and post-quantum hardware architectures.",
+    "details": "Related conference presentations in the CV include plasmonic PUF devices, domain-wall motion spintronics, and nonlinear optical PUFs. Link each specific output to its own evidence/resource.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "PUF",
+      "Hardware security",
+      "Spintronics",
+      "Plasmonics"
+    ]
+  },
+  {
+    "title": "Quantum Photonic Systems",
+    "category": "Quantum optics \u00b7 Cavity QED",
+    "summary": "Cavity-QED, single-photon sources, quantum-state tomography, quantum memories, quantum error correction, and quantum protocols.",
+    "details": "Research experience in the CV includes simulation of cavity-QED and multi-level quantum systems, photon\u2013matter interaction, and quantum optomechanical systems.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Cavity QED",
+      "Quantum optics",
+      "Photon\u2013matter interaction"
+    ]
+  },
+  {
+    "title": "Medical Imaging and Computer Vision",
+    "category": "Biomedical computing \u00b7 Machine learning",
+    "summary": "CNN-based analysis of pathology and radiology datasets, including cancer-tissue classification, pulmonary disease detection, and computational pathology.",
+    "details": "The CV lists these as selected engineering/computational project topics. Add dataset provenance, task definition, validation methods, and reproducible code before presenting results.",
+    "paper": "",
+    "notebook": "",
+    "github": "",
+    "result_images": [],
+    "schematic_images": [],
+    "tags": [
+      "Medical imaging",
+      "CNN",
+      "Computational pathology"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "type": "Conference paper",
+    "year": "2011",
+    "authors": "H. Dey and R. Datta",
+    "title": "A Threshold Cryptography Based Authentication Scheme for Mobile Ad-hoc Network",
+    "venue": "Advances in Networks and Communications, Communications in Computer and Information Science, vol. 132, Springer, pp. 400\u2013409.",
+    "doi": "https://doi.org/10.1007/978-3-642-17878-8_41",
+    "url": ""
+  },
+  {
+    "type": "Conference paper",
+    "year": "2020",
+    "authors": "H. Dey, J. Zhu, and P. Bermel",
+    "title": "Plasmonic Physically Unclonable Function Devices for Hardware Security",
+    "venue": "Plasmonics: Design, Materials, Fabrication, Characterization, and Applications XVIII, Proc. SPIE, vol. 11462, art. 114620H.",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "type": "Conference paper",
+    "year": "2020",
+    "authors": "H. Dey, P. Bermel, and R. Shugayev",
+    "title": "Cavity QED with Nano-diamond Color Centres Coupled to Silicon MIE Resonators for Fibre-optic Quantum Communication",
+    "venue": "Quantum Communications and Quantum Imaging XVIII, Proc. SPIE, vol. 11507, art. 115070E.",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "type": "Conference paper",
+    "year": "2020",
+    "authors": "H. Dey and P. Bermel",
+    "title": "Energy-efficient Hardware Cryptography with Domain-wall Motion Spintronics",
+    "venue": "Spintronics XIII, Proc. SPIE, vol. 11470, art. 114703O.",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "type": "Conference paper",
+    "year": "2021",
+    "authors": "H. Dey, A. Anand, and P. Bermel",
+    "title": "Securing Invasive Biomedical Sensors in Mammalian Tissues Using Nano-diamond-based Quantum Optical Physically Unclonable Functions",
+    "venue": "Optical and Quantum Sensing and Precision Metrology, Proc. SPIE, vol. 11700, art. 117003I.",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "type": "Conference paper",
+    "year": "2021",
+    "authors": "H. Dey and P. Bermel",
+    "title": "Photonic Hardware Cryptography with Chaotic Resonator-based Nonlinear Optical Physically Unclonable Functions",
+    "venue": "Metro and Data Center Optical Networks and Short-Reach Links IV, Proc. SPIE, vol. 11712, art. 1171206.",
+    "doi": "",
+    "url": ""
+  }
+]
